@@ -16,17 +16,6 @@ A News App using [API from newsapi.org](newsapi.org) and using Bloc.
 <br>
 <br>
 
-### ⚡ video
-<br>
-<p align="center">
-    <img src="Screenshots/Demo.gif" width="30%"></img> 
-
-    
-</p>
-<br>
-<br>
-
-
 ### Before Running
 - Replace the <API_KEY> in ```lib/res/strings.dart``` with your own API key generated from [newsapi.org](newsapi.org).
 
@@ -36,4 +25,4 @@ A News App using [API from newsapi.org](newsapi.org) and using Bloc.
 <br>
 <br>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala96.Flutter-News-App)
+
